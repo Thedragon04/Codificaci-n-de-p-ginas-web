@@ -3,3 +3,5 @@
 Thunbs.db
 #Temporales y comprimidos de trabajo
 *.tmp
+*.rar
+*.zip
