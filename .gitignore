@@ -1,0 +1,5 @@
+# . gitignore del curso
+#Sistema operativo
+Thunbs.db
+#Temporales y comprimidos de trabajo
+*.tmp
