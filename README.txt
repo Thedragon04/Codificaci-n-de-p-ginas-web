@@ -1,6 +1,12 @@
-Codificacion de paginas web 
-├── Sesion_01_Git/         
-├── Sesion_02_git/
-Hicimos una simulacion de como trabajar con las ramas y la reflexion seria que una rama es mas segura porque al no estar trabajamdo en main esta no afectara a todo el proyecto si es que sucede algun incovenniente 
-├── Sesion_03_git
-
+Codificacion de paginas web
+-Unidad-01-control-versiones
+    -Instalación y configuración de git y git hub
+    -comandos básicos de git y git hub
+    -Materia del marco teórico de la unidad.
+-Unidad-02-HTML
+    -Fundamentos de internet.
+    -Conceptos de XML
+    -HTML conceptos y estructura básica.
+    -Metadatos y nuestros metadatos.
+    -W3C validación de html
+    -Favicon y title
