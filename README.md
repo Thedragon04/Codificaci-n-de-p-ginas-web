@@ -50,20 +50,20 @@ Portafolio-Codificación de Páginas Web/
 
 | Sesión | Tema         | Qué aprendí                            |      Trabajo      |     Captura      |
 | :----: | :----------- | :------------------------------------- | :---------------: | :--------------: |
-|  S01   | Git y GitHub | _(escribir aquí con palabras propias)_ | [ver](unidad-01/) | [ver](recursos/) |
+|  S01   | Git y GitHub | _(escribir aquí con palabras propias)_ | [ver](Unidad-1-control-versiones/) | [ver](recursos/Captura-de-pantalla-2026-07-03_165207.png) |
 
 <details>
 <summary><b>Unidad 2 · Etiquetas y atributos HTML</b> (sesiones 2 a 8)</summary>
 
 | Sesión | Tema                           | Qué aprendí                                          |      Trabajo      |     Captura      |
 | :----: | :----------------------------- | :--------------------------------------------------- | :---------------: | :--------------: |
-|  S02   | Git colaborativo, la web y XML | Aprendi sobre comandos git para trabajo colaborativo | [ver](unidad-02/) | [ver](recursos/) |
-|  S03   | Estructura del documento HTML5 |                                                      | [ver](unidad-02/) | [ver](recursos/) |
-|  S04   | Texto, enlaces y anclas        |                                                      | [ver](unidad-02/) | [ver](recursos/) |
-|  S05   | Listas y tablas                |                                                      | [ver](unidad-02/) | [ver](recursos/) |
-|  S06   | Formularios y semántica        |                                                      | [ver](unidad-02/) | [ver](recursos/) |
-|  S07   | Multimedia                     |                                                      | [ver](unidad-02/) | [ver](recursos/) |
-|  S08   | SVG y repaso                   |                                                      | [ver](unidad-02/) | [ver](recursos/) |
+|  S02   | Git colaborativo, la web y XML | Aprendi sobre comandos git para trabajo colaborativo | [ver](Unidad-2-html) | [ver](recursos/) |
+|  S03   | Estructura del documento HTML5 |                                                      | [ver](Unidad-2-html) | [ver](recursos/) |
+|  S04   | Texto, enlaces y anclas        |                                                      | [ver](Unidad-2-html) | [ver](recursos/) |
+|  S05   | Listas y tablas                |                                                      | [ver](Unidad-2-html) | [ver](recursos/) |
+|  S06   | Formularios y semántica        |                                                      | [ver](Unidad-2-html) | [ver](recursos/) |
+|  S07   | Multimedia                     |                                                      | [ver](Unidad-2-html) | [ver](recursos/) |
+|  S08   | SVG y repaso                   |                                                      | [ver](Unidad-2-html) | [ver](recursos/) |
 
 </details>
 
