@@ -48,22 +48,22 @@ Portafolio-Codificación de Páginas Web/
 
 ### Unidad 1 · Implementación de control de versiones
 
-| Sesión | Tema         | Qué aprendí |              Trabajo               |       Captura       |
-| :----: | :----------- | :---------- | :--------------------------------: | :-----------------: |
-|  S01   | Git y GitHub |             | [ver](Unidad-1-control-versiones/) | [ver](recursos/S01.png) |
+| Sesión | Tema         | Qué aprendí                                                                                                                                                   |              Trabajo               |         Captura         |
+| :----: | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------: | :---------------------: |
+|  S01   | Git y GitHub | En esta clase aprendimos a utilizar git como una herramienta para el control de versiones y github es la plataforma en la que estos cambios se ven reflejados | [ver](Unidad-1-control-versiones/) | [ver](recursos/S01.png) |
 
 <details>
 <summary><b>Unidad 2 · Etiquetas y atributos HTML</b> (sesiones 2 a 8)</summary>
 
-| Sesión | Tema                           | Qué aprendí                                          |       Trabajo        |                          Captura                           |
-| :----: | :----------------------------- | :--------------------------------------------------- | :------------------: | :--------------------------------------------------------: |
-|  S02   | Git colaborativo, la web y XML | Aprendi sobre comandos git para trabajo colaborativo | [ver](Unidad-2-html) | [ver](recursos/Captura-de-pantalla-2026-07-03_165207.png/) |
-|  S03   | Estructura del documento HTML5 |                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
-|  S04   | Texto, enlaces y anclas        |                                                      | [ver](Unidad-2-html) |               [ver](recursos/Sitio-demo.png)               |
-|  S05   | Listas y tablas                |                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
-|  S06   | Formularios y semántica        |                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
-|  S07   | Multimedia                     |                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
-|  S08   | SVG y repaso                   |                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
+| Sesión | Tema                           | Qué aprendí                                                                                                                                                                                          |       Trabajo        |                          Captura                           |
+| :----: | :----------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: | :--------------------------------------------------------: |
+|  S02   | Git colaborativo, la web y XML | Aqui se aprendio a commo trabajar con github de forma colaborativa y fusionar diferentes ramas hacia la rama main que es la principal ya que con esto se lleva un control mas preciso de los cambios | [ver](Unidad-2-html) | [ver](recursos/Captura-de-pantalla-2026-07-03_165207.png/) |
+|  S03   | Estructura del documento HTML5 | Aprendimos a como tiene que ser la estrutura de un html5 junto con que tipo de informacion trae y de como cambiar el icono de la misma                                                               | [ver](Unidad-2-html) |             [ver](recursos/S03_Estructura.png)             |
+|  S04   | Texto, enlaces y anclas        | Se nos reenseño la estructura de texto que va de h1 a h6 en ese mismo orden y el como poner vinculos a diferentes cosas como para ir a otra pagina o de descargar una imagen                         | [ver](Unidad-2-html) |               [ver](recursos/Sitio-demo.png)               |
+|  S05   | Listas y tablas                |                                                                                                                                                                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
+|  S06   | Formularios y semántica        |                                                                                                                                                                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
+|  S07   | Multimedia                     |                                                                                                                                                                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
+|  S08   | SVG y repaso                   |                                                                                                                                                                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
 
 </details>
 
