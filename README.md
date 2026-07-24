@@ -2,7 +2,7 @@
 
 # 📘 Portafolio de Evidencias
 
-### Nombre Completo de la Persona Estudiante
+### Jafeth Espinoza Villarreal
 
 **CSTI12002 · Codificación de páginas web** · Instituto Nacional de Aprendizaje
 Facilitador: Giovanni Antonio Coto Calderón · Edición 2 · 2026
@@ -52,22 +52,19 @@ Portafolio-Codificación de Páginas Web/
 | :----: | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------: | :---------------------: |
 |  S01   | Git y GitHub | En esta clase aprendimos a utilizar git como una herramienta para el control de versiones y github es la plataforma en la que estos cambios se ven reflejados | [ver](Unidad-1-control-versiones/) | [ver](recursos/S01.png) |
 
-
 ### Unidad 2 · Etiquetas y atributos HTML (sesiones 2 a 8)
 
 | Sesión | Tema                           | Qué aprendí                                                                                                                                                                                          |       Trabajo        |                          Captura                           |
 | :----: | :----------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: | :--------------------------------------------------------: |
 |  S02   | Git colaborativo, la web y XML | Aqui se aprendio a commo trabajar con github de forma colaborativa y fusionar diferentes ramas hacia la rama main que es la principal ya que con esto se lleva un control mas preciso de los cambios | [ver](Unidad-2-html) | [ver](recursos/Captura-de-pantalla-2026-07-03_165207.png/) |
 |  S03   | Estructura del documento HTML5 | Aprendimos a como tiene que ser la estrutura de un html5 junto con que tipo de informacion trae y de como cambiar el icono de la misma                                                               | [ver](Unidad-2-html) |             [ver](recursos/S03_Estructura.png)             |
-|  S04   | Texto, enlaces y anclas        | Se nos reenseño la estructura de texto que va de h1 a h6 en ese mismo orden y el como poner vinculos a diferentes cosas como para ir a otra pagina o de descargar una imagen                         | [ver](Unidad-2-html) |               [ver](recursos/Sitio-demo2.png)               |
+|  S04   | Texto, enlaces y anclas        | Se nos reenseño la estructura de texto que va de h1 a h6 en ese mismo orden y el como poner vinculos a diferentes cosas como para ir a otra pagina o de descargar una imagen                         | [ver](Unidad-2-html) |              [ver](recursos/Sitio-demo2.png)               |
 |  S05   | Listas y tablas                |                                                                                                                                                                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
 |  S06   | Formularios y semántica        |                                                                                                                                                                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
 |  S07   | Multimedia                     |                                                                                                                                                                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
 |  S08   | SVG y repaso                   |                                                                                                                                                                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
 
-
-<details>
-<summary><b>Unidad 3 · Codificación de hojas de estilo</b> (sesiones 11 a 20)</summary>
+### Unidad 3 · Codificación de hojas de estilo (sesiones 11 a 20)
 
 | Sesión | Tema                       | Qué aprendí |       Trabajo       |     Captura      |
 | :----: | :------------------------- | :---------- | :-----------------: | :--------------: |
@@ -82,10 +79,7 @@ Portafolio-Codificación de Páginas Web/
 |  S19   | Animaciones y filtros      |             | [ver](Unidad-3-css) | [ver](recursos/) |
 |  S20   | SCSS y repaso              |             | [ver](Unidad-3-css) | [ver](recursos/) |
 
-</details>
-
-<details>
-<summary><b>Unidad 4 · Páginas web responsivas</b> (sesiones 23 a 28)</summary>
+### Unidad 4 · Páginas web responsivas (sesiones 23 a 28)
 
 | Sesión | Tema                            | Qué aprendí |          Trabajo          |     Captura      |
 | :----: | :------------------------------ | :---------- | :-----------------------: | :--------------: |
@@ -96,10 +90,7 @@ Portafolio-Codificación de Páginas Web/
 |  S27   | Patrones de diseño adaptativo I |             | [ver](Unidad-4-respovive) | [ver](recursos/) |
 |  S28   | Patrones II y repaso            |             | [ver](Unidad-4-respovive) | [ver](recursos/) |
 
-</details>
-
-<details>
-<summary><b>Unidad 5 · Frameworks y librerías</b> (sesiones 31 a 36)</summary>
+### Unidad 5 · Frameworks y librerías (sesiones 31 a 36)
 
 | Sesión | Tema                          | Qué aprendí |          Trabajo          |     Captura      |
 | :----: | :---------------------------- | :---------- | :-----------------------: | :--------------: |
@@ -109,8 +100,6 @@ Portafolio-Codificación de Páginas Web/
 |  S34   | Tipografía y utilidades       |             | [ver](Unidad-5-framework) | [ver](recursos/) |
 |  S35   | Formularios y navegación      |             | [ver](Unidad-5-framework) | [ver](recursos/) |
 |  S36   | Componentes y personalización |             | [ver](Unidad-5-framework) | [ver](recursos/) |
-
-</details>
 
 ---
 
@@ -169,7 +158,7 @@ _(Escribir al cerrar el módulo. Tres preguntas para orientarla:)_
 
 <div align="center">
 
-**Nombre Completo** · correo@ejemplo.com
+**Jafeth Espinoza Villarreal** · jafetespinoza13@gmail.com
 
 Portafolio elaborado durante el módulo CSTI12002 · Instituto Nacional de Aprendizaje · 2026
 
