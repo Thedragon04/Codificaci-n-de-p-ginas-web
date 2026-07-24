@@ -48,22 +48,22 @@ Portafolio-Codificación de Páginas Web/
 
 ### Unidad 1 · Implementación de control de versiones
 
-| Sesión | Tema         | Qué aprendí |              Trabajo               |                          Captura                          |
-| :----: | :----------- | :---------- | :--------------------------------: | :-------------------------------------------------------: |
-|  S01   | Git y GitHub |             | [ver](Unidad-1-control-versiones/) | [ver](recursos/Captura-de-pantalla-2026-07-03_165207.png) |
+| Sesión | Tema         | Qué aprendí |              Trabajo               |       Captura       |
+| :----: | :----------- | :---------- | :--------------------------------: | :-----------------: |
+|  S01   | Git y GitHub |             | [ver](Unidad-1-control-versiones/) | [ver](recursos/S01.png) |
 
 <details>
 <summary><b>Unidad 2 · Etiquetas y atributos HTML</b> (sesiones 2 a 8)</summary>
 
-| Sesión | Tema                           | Qué aprendí                                          |       Trabajo        |            Captura             |
-| :----: | :----------------------------- | :--------------------------------------------------- | :------------------: | :----------------------------: |
-|  S02   | Git colaborativo, la web y XML | Aprendi sobre comandos git para trabajo colaborativo | [ver](Unidad-2-html) |        [ver](recursos/)        |
-|  S03   | Estructura del documento HTML5 |                                                      | [ver](Unidad-2-html) |        [ver](recursos/)        |
-|  S04   | Texto, enlaces y anclas        |                                                      | [ver](Unidad-2-html) | [ver](recursos/Sitio-demo.png) |
-|  S05   | Listas y tablas                |                                                      | [ver](Unidad-2-html) |        [ver](recursos/)        |
-|  S06   | Formularios y semántica        |                                                      | [ver](Unidad-2-html) |        [ver](recursos/)        |
-|  S07   | Multimedia                     |                                                      | [ver](Unidad-2-html) |        [ver](recursos/)        |
-|  S08   | SVG y repaso                   |                                                      | [ver](Unidad-2-html) |        [ver](recursos/)        |
+| Sesión | Tema                           | Qué aprendí                                          |       Trabajo        |                          Captura                           |
+| :----: | :----------------------------- | :--------------------------------------------------- | :------------------: | :--------------------------------------------------------: |
+|  S02   | Git colaborativo, la web y XML | Aprendi sobre comandos git para trabajo colaborativo | [ver](Unidad-2-html) | [ver](recursos/Captura-de-pantalla-2026-07-03_165207.png/) |
+|  S03   | Estructura del documento HTML5 |                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
+|  S04   | Texto, enlaces y anclas        |                                                      | [ver](Unidad-2-html) |               [ver](recursos/Sitio-demo.png)               |
+|  S05   | Listas y tablas                |                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
+|  S06   | Formularios y semántica        |                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
+|  S07   | Multimedia                     |                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
+|  S08   | SVG y repaso                   |                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
 
 </details>
 
