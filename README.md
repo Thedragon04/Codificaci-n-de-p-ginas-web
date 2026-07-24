@@ -52,8 +52,8 @@ Portafolio-Codificación de Páginas Web/
 | :----: | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------: | :---------------------: |
 |  S01   | Git y GitHub | En esta clase aprendimos a utilizar git como una herramienta para el control de versiones y github es la plataforma en la que estos cambios se ven reflejados | [ver](Unidad-1-control-versiones/) | [ver](recursos/S01.png) |
 
-<details>
-<summary><b>Unidad 2 · Etiquetas y atributos HTML</b> (sesiones 2 a 8)</summary>
+
+### Unidad 2 · Etiquetas y atributos HTML (sesiones 2 a 8)
 
 | Sesión | Tema                           | Qué aprendí                                                                                                                                                                                          |       Trabajo        |                          Captura                           |
 | :----: | :----------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: | :--------------------------------------------------------: |
@@ -65,7 +65,6 @@ Portafolio-Codificación de Páginas Web/
 |  S07   | Multimedia                     |                                                                                                                                                                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
 |  S08   | SVG y repaso                   |                                                                                                                                                                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
 
-</details>
 
 <details>
 <summary><b>Unidad 3 · Codificación de hojas de estilo</b> (sesiones 11 a 20)</summary>
