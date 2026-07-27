@@ -8,7 +8,7 @@
     <meta name="author" content="Jafeth"> 
     <title>Horario | sitio-demo</title>
 </head>
-<body>
+<br>
     <h1>Horario y guia del curso</h1>
     
     <!--Lista desordenada-->
@@ -63,6 +63,7 @@
     <!--Listas anidada. usada en menus y submenus mas para cuando hay submenus-->
     <h2>Temario de la unidad: con lista anidada</h2>
     <!--emmet : ul>li>ul>li*2-->
+    
     <ul>
         
         <li>Estructura de un documento web
@@ -80,5 +81,40 @@
         </li>
 
     </ul>
+
+    <br></br>
+    <hr>
+    <!--Esqueleto de la tabla-->
+    <h2>Horario semanal</h2>
+    <table border="2">
+        <caption>
+            Horario de clases del programa
+        </caption>
+        <thead>
+            <tr>
+                <th scope="col">Dia</th>
+                <th scope="col">Modalidad</th>
+                <th scope="col">Horario</th>
+                <th scope="col">Contenido</th>
+            </tr>
+        </thead>
+        <!--tbody cuerpo de la tabla-->
+        <tbody>
+            <tr>
+                <td>Lunes</td>
+                <td>Presentacion</td>
+                <td>1:30 a 5:30</td>
+                <td>listas y tablas</td>
+            </tr>
+        </tbody>
+        <!--El pie de la tabla-->
+        <tfoot>
+            <tr>
+                <td colspan="4", align="center">Toltal semanal 20 horas</td>
+            </tr>
+        </tfoot>
+    </table>
+    <!--table>caption+thead>tr>th*4^^tbody>tr*5>td*4-->
+    
 </body>
 </html>
