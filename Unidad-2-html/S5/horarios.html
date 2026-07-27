@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Horario de clases del sitio-demo">
+    <meta name="keywords" content="Horario, clases, sitio-demo">
+    <meta name="author" content="Jafeth"> 
+    <title>Horario | sitio-demo</title>
+</head>
+<body>
+    <h1>Horario y guia del curso</h1>
+    
+    <!--Lista desordenada-->
+    <h2> Materiales del curso: con lista desordenada</h2>
+
+    <ul>
+    <!--<ul type="square, circle, disc ejemplo"></ul>-->
+        <li>Visual studio code</li>
+        <li>Cuenta de github</li>
+        <li>Cuaderno de bitacora</li>
+        <li>Computadora con conexion de internet</li>
+    </ul>
+    <!--ul>li*4 crear rapido varias filas de li-->
+
+    <hr>
+
+    <!--Lista ordenada-->
+    <!--ol>li*8-->
+    <h2>Como entregar una practica: con lista ordenada</h2>
+    <ol>
+        <li>Traer los cambios con git pull</li>
+        <li>Crear la rama de la practica con git switch -c "nombre_rama"</li>
+        <li>Trabajar y hacer commits atomicos</li>
+        <li>Subir la rama con git push</li>
+        <li>Abrir un pull request en github</li>
+        <li>Revisar y fusionar el pull request</li>
+        <li>Volver a la rama principal (main)</li>
+        <li>Eliminar la rama de la practica con git branch -d "nombre de la rama"</li>
+    </ol>
+
+    <hr>
+    <!--
+    Alugunos atributos probados en vivo
+    <ol type o star="1,A,a,i,I">
+    <ol reversed, reversed, start="7">
+    -->
+    <!--Lista de descriptivas: pares de termino y descripcion-->
+    <h2>Glorario git: con lista descriptiva</h2>
+    <!-- emmet: dl>(dt+dd)*3 -->
+    <dl>
+        <dt>Commmit:</dt>
+        <dd>Instantanea permanente del proyecto en un momento dado</dd>
+
+        <dt>Rama:</dt>
+        <dd>Linea de trabajo paralela que no afecta a main</dd>
+
+        <dt>Pull:</dt>
+        <dd>Solicitud de revision para incorporar una rama</dd>
+    </dl>
+    <hr>
+
+    <!--Listas anidada. usada en menus y submenus mas para cuando hay submenus-->
+    <h2>Temario de la unidad: con lista anidada</h2>
+    <!--emmet : ul>li>ul>li*2-->
+    <ul>
+        
+        <li>Estructura de un documento web
+            <ul>
+                <li>DOCTYPE Y HTML</li>
+                <li>Head y metadatos</li>
+            </ul>
+        </li>
+
+        <li> Contenido
+            <ul>
+                <li>Texto y enlaces</li>
+                <li>Listas y tablas</li>
+            </ul>
+        </li>
+
+    </ul>
+</body>
+</html>
