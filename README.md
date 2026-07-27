@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" markdown="1" >
 
 # 📘 Portafolio de Evidencias
 
@@ -59,7 +59,7 @@ Portafolio-Codificación de Páginas Web/
 |  S02   | Git colaborativo, la web y XML | Aqui se aprendio a commo trabajar con github de forma colaborativa y fusionar diferentes ramas hacia la rama main que es la principal ya que con esto se lleva un control mas preciso de los cambios | [ver](Unidad-2-html) | [ver](recursos/Captura-de-pantalla-2026-07-03_165207.png/) |
 |  S03   | Estructura del documento HTML5 | Aprendimos a como tiene que ser la estrutura de un html5 junto con que tipo de informacion trae y de como cambiar el icono de la misma                                                               | [ver](Unidad-2-html) |             [ver](recursos/S03_Estructura.png)             |
 |  S04   | Texto, enlaces y anclas        | Se nos reenseño la estructura de texto que va de h1 a h6 en ese mismo orden y el como poner vinculos a diferentes cosas como para ir a otra pagina o de descargar una imagen. Tambien en como enlazar una pagina con otra y crear anclas que ayudan a la navegacion                         | [ver](Unidad-2-html) |              [ver](recursos/Sitio-demo2.png)               |
-|  S05   | Listas y tablas                |                                                                                                                                                                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
+|  S05   | Listas y tablas| Aprendi a trabajar los tres tipos de listas con su tipo y estilos. Tambien la parte de tablas semanticas| [ver](Unidad-2-html) | [ver](unidad-2-html/sitio-demo/Recursos/S05.png) |
 |  S06   | Formularios y semántica        |                                                                                                                                                                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
 |  S07   | Multimedia                     |                                                                                                                                                                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
 |  S08   | SVG y repaso                   |                                                                                                                                                                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
@@ -112,7 +112,7 @@ imágenes representativas de todo el módulo.)_
   <img src="recursos/ejemplo-escritorio.png" width="600" alt="Sitio personal en vista de escritorio">
 </p>
 
-<div align="center"><i>El sitio personal al cierre de la Unidad 3.</i></div>
+<div align="center" markdown="1"><i>El sitio personal al cierre de la Unidad 3.</i></div>
 
 ### El mismo sitio en dos anchos
 
@@ -156,7 +156,7 @@ _(Escribir al cerrar el módulo. Tres preguntas para orientarla:)_
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 **Jafeth Espinoza Villarreal** · jafetespinoza13@gmail.com
 
