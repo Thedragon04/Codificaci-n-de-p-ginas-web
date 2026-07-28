@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Formulario de registro sitio demo0">
+    <meta name="keywords" content="registro, formulario, sitio-demo">
+    <meta name="author" content="Jafeth">
+    <title>Formulario | Registro</title>
+</head>
+<body>
+    <header>
+      <!--Header: Es la cabecera de la pagina del sitio y repite en todo este mismo-->
+      <h1>Codificacion de pagina web</h1>
+      <p>Sitio de demostracion del modulo</p>
+
+      <!--Para el nav: nav>ul>li*4>a-->
+      <nav>
+        <ul>
+          <li><a href="index.html">Inicio</a></li>
+          <li><a href="paginas/Articulo.html">Articulos</a></li>
+          <li><a href="horarios.html">Horario</a></li>
+          <li><a href="registro.html">registro</a></li>
+        </ul>
+      </nav>
+    </header>
+
+
+
+    <main>
+        <h2>Formulario de matricula</h2>
+        <form action="#" method="post">
+            <!--FORM: contenerdor del fomulario, action: es donde se envia el formulario, y el method: es el metedo de envio, post: envio de datos por el cuerpo de la solicitud. tambien method tiene get-->
+            <fieldset> <!-- Contenedor de los elementos del formulario-->
+                <legend>Informacion personal</legend><!--Legend: titulo de fieldset-->
+            <!--p posiblemente innecesario-->
+                <label for="nombre">Nombre</label>
+                <input type="text" id="nombre" name="nombre" required><br><br>
+
+                <label for="correo">Correo electronico</label>
+                <input type="email" id="correo" name="correo" required><br><br>
+                <button type="submit">Enviar matricula</button>
+
+            </fieldset>
+        </form>
+
+        <fieldset>
+            <legend>Detalles de matricula</legend>
+
+                <label for="telefono">Telefono</label>
+                <input type="tel" id="telefono" name="telefono" required pattern="[0-9{8}]" minlength="8" maxlength="8" title="Ingrese un numero de telefono valido de 8 digitos"> <br><br>
+
+                <label for="fecha">Fecha de inicio</label>
+                <input type="date" id="fecha" name="fecha"> <br><br>
+
+                <label for="edad">Edad</label>
+                <input type="number" id="edad" name="edad" min="15" max="80" step="1" required> <br><br>
+
+        </fieldset>
+        <fieldset>
+            <legend>Modalidad</legend>
+
+                <input type="radio" id="presencial" name="modalidad" value="presencial">
+                <label for="presencial">Presencial</label><br>
+
+                <input type="radio" id="virtual" name="modalidad" value="virtual"> 
+                <label for="virtual">Virtual</label><br>   
+
+                <input type="radio" id="mixta" name="modalidad" value="mixta"> 
+                <label for="mixta">Mixta</label><br> 
+
+        
+            
+            <label for="horario">Horario preferido</label><br>
+            <select name="horario" id="horario">
+                <option value="mañana">Mañana</option>
+                <option value="tarde">Tarde</option>
+                <option value="noche">Noche</option>
+            </select> <br><br><br>
+
+
+            <label for="comentarios">Comentarios</label><br>
+            <!---->
+            <textarea name="comentarios" id="comentarios" rows="4" cols="50" maxlength="200"></textarea><!---->
+
+        </fieldset>
+
+    </main>
+
+
+
+    <footer>
+      <!--Footer: pie, creditos, contacto, derechos-->
+      <p>&copy; 2026 Jafeth Espinoza Villrreal. programa Desarrollo de Paginas Web. Todos los derechos reservados</p>
+    </footer>
+</body>
+</html>
