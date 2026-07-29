@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Jafeth" />
+    <meta
+      name="description"
+      content="Imagen de la galería con contenido relacionado con HTML5"/>
+    <meta
+      name="keywords"
+      content="HTML5, estándar vivo, Formatos, W3C, Imagenes de laboratorio"/>
+    <title>Galería</title>
+</head>
+<body>
+  <header id="inicio">
+    <h1>Codificación de páginas web</h1>
+    <p>Sitio de demostración del módulo <abbr title="Código del módulo">CSTI12002</abbr>.</p>
+
+    <nav>
+      <ul>
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="articulo.html">Artículo</a></li>
+        <li><a href="horario.html">Horario</a></li>
+        <li><a href="registro.html">Registro</a></li>
+        <li><a href="galeria.html">Galería</a></li>
+      </ul>
+    </nav>
+  </header>
+
+<main>
+    <article>
+        <h1>Galería</h1>
+        <!-- Imágenes y sus atributos -->
+        <img src="../recursos/S.7_lab01.jpg" alt="Imagen de la galería de un laboratorio de informatica" width="600" height="400">
+
+        <!--FIGURE: agrupa un contenido con una explicaciom-->
+        <figure>
+            <img src="../recursos/S.7_lab02.jpg" alt="Imagen de la galería de un laboratorio de informatica" width="800" height="500">
+            <figcaption>Imagen de la galería de un laboratorio de informatica</figcaption>
+        </figure>
+
+
+        <!--Varios formatos: el navegador elige el primero que soporta-->
+        <figure> 
+            <picture>
+                <source srcset="../recursos/S.7_lab01.webp" type="image/webp">
+                <source srcset="../recursos/S.7_lab02.jpg" type="image/jpeg">
+                <img src="../recursos/S.7_lab01.jpg" alt="Imagen de la galería de un laboratorio de informatica" width="800" height="500">
+        </figure>
+    
+
+
+
+
+        <!--Audio-->
+        <section id="audio">
+            <h3>Audio de bienvenida</h3>
+
+            <audio controls>
+                <source src="../recursos/End_of_Line_opti.mp3" type="audio/mpeg">
+                <source src="../recursos/End_of_Line_opti.ogg" type="audio/ogg">
+                <p>Tu navegador no soporta la reproducción de audio.</p>
+                <a href="../recursos/End_of_Line_opti.mp3">Descargar archivo de audio</a>
+            </audio>
+        </section>
+
+
+
+
+
+        <!--Video  -->
+        <section id="video">
+            <h3>Mini tutorial</h3>
+
+            <video controls width="640" height="360" poster="../recursos/Tuto.jpg" preload="metadata">
+                <source src="../recursos/video2.mp4" type="video/mp4">
+                <source src="../recursos/video2.webm" type="video/ogg">
+                <track src="../recursos/video2.vtt" kind="subtitles" srclang="es" label="Español" default>
+
+                <p>Tu navegador no soporta la reproducción de video.</p>
+                <a href="../recursos/video2.mp4">Descargar archivo de video</a>
+            </video>
+        </section>
+
+
+
+    </article>
+
+    <p><a href="#inicio">Volver al inicio de la página</a></p>
+</main>
+
+<footer>
+    <h2>Contacto</h2>
+    <address>
+        Instituto Nacional de Aprendizaje<br>
+        Correo: <a href="mailto:jafeth@ejemplo.com">jafeth@ejemplo.com</a>
+    </address>
+    <p><small>&copy; 2026 &middot; INA &middot; Todos los derechos reservados</small></p>
+</footer>
+</body>
+</html>
