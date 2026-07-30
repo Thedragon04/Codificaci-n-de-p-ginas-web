@@ -62,7 +62,7 @@ Portafolio-Codificación de Páginas Web/
 |  S05   | Listas y tablas| Aprendi a trabajar los tres tipos de listas con su tipo y estilos. Tambien la parte de tablas semanticas| [ver](Unidad-2-html/sitio-demo/horarios.html) | [ver](recursos/S05.png) |
 |  S06   | Formularios y semántica        |Aprendimos los diferentes tipos de fomularios y que tipo de datos pueden pedir y como limitar su entrada para que solo entre la informacion necesaria y tambien vimos estructura semantica y arreglamos para que los sitios demo tuvieran su respectivo orden semantico| [ver](Unidad-2-html/sitio-demo/registro.html) |                      [ver](recursos/S06.png)                      |
 |  S07   |Multimedia |Trabajamos con etiquetas, controles de audio, formatos y portadas y subtitulos, Como trabajas y convertir a los diferentes tipos de extensiones para un mismo archivo y como optimizar los archivos para la web| [ver](Unidad-2-html/sitio-demo/Sitios-demo/galeria.html)|[ver](recursos/S07.png)|
-|  S08   | SVG y repaso                   |                                                                                                                                                                                                      | [ver](Unidad-2-html) |                      [ver](recursos/)                      |
+|  S08   | SVG y repaso    |Trabajos con svg directamente desde codigo pero es mejor con css auctulizamos los links de las diferentes paginas y creamos un svg externo con codigo| [ver](Unidad-2-html/sitio-demo/Sitios-demo/insignia.html) |                      [ver](recursos/S08.png)                      |
 
 ### Unidad 3 · Codificación de hojas de estilo (sesiones 11 a 20)
 
