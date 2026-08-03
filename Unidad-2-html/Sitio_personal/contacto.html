@@ -14,8 +14,8 @@
     <title>Doom fan site</title>
 </head>
 <body>
-    <header>
-        <h1>Doom</h1>
+    <header id="inicio">
+        <h1>Doom pregunta</h1>
         <nav>
             <ul>
                 <li><a href="index.html">Inicio</a></li>
@@ -26,6 +26,84 @@
         </nav>
     </header>
 
+    
+    <main>
+        <h2>¿Tienes preguntas sobre Doom? ¡Contáctanos!</h2>
+        
+
+        <form action="" method="post">
+            <fieldset>
+                <legend>Formulario de contacto</legend>
+                    <p>
+                    <label for="nombre">Nombre:</label>
+                    <input type="text" id="nombre" name="nombre" required>
+                    </p>
+                    <p>
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+                    </p>
+                    <p>
+                    <label for="mensaje">Mensaje:</label>
+                    <textarea id="mensaje" name="mensaje" maxlength="200" placeholder="Indica el tema de tu mensaje ejemplo: Dudas sobre el juego, quejas sobre la página, etc." rows="4" cols="50" required></textarea>
+                    </p>
+                    <button type="submit">Enviar</button>
+
+                    <br><br>    
+
+                    <fieldset>
+                        <legend>Información de contacto</legend>
+                        <label for="fecha">Fecha de cita:</label>
+                        <input type="date" id="fecha" name="fecha" required>
+
+                        <legend>Horario de atención:</legend>
+                        <label for="hora">10:00 AM - 2:00 PM</label>
+                        <input type="radio" id="hora" name="hora" required>
+                        
+                        <br>
+
+                        <label for="hora">2:00 PM - 6:00 PM</label>
+                        <input type="radio" id="hora" name="hora" required> <br>
+                        <button type="submit">Enviar</button>
+
+
+                    </fieldset>
+            </fieldset>
+
+            <fieldset>
+                <legend>Tema de interés</legend>
+                
+
+                <input type="checkbox" id="demonios" name="tema" value="demonios">
+                <label for="demonios">Demonios</label>
+                <br>
+
+                <input type="checkbox" id="personajes" name="tema" value="personajes">
+                <label for="personajes">Personajes</label>
+                <br>
+
+                <input type="checkbox" id="armas" name="tema" value="armas">
+                <label for="armas">Armas</label>
+                <br>
+
+                <input type="checkbox" id="niveles" name="tema" value="niveles">
+                <label for="niveles">Niveles</label>
+            </fieldset>
+
+            <fieldset>
+                <legend>Confirmar mensaje</legend>
+                <p>Al enviar este formulario, confirmo que la información proporcionada es correcta.</p>
+                <input type="checkbox" id="confirmar" name="confirmar" required>
+                <label for="confirmar">Confirmo la información</label>
+            </fieldset>
+        </form>
+        <br>
+        <button type="submit">Enviar</button>
+        <button type="reset">Limpiar formulario</button>
+
+        <br><br>
+
+        <a href="#inicio">Volver al inicio de la página</a></p>
+    </main>
 
 
 
