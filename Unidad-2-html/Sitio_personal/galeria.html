@@ -29,7 +29,27 @@
     <main>
         <article>
             <h2>Galería de imágenes</h2>
-            <img src="recursos/doom1.jpg" alt="Imagen de Doom 1" width="600" height="400">
+            
+            <section id="imagen">
+                <picture>
+                    <source srcset="recursos/doom1.webp" type="image/webp">
+                    <source srcset="recursos/doom1.jpg" type="image/jpeg">
+                    <img src="recursos/doom1.jpg" alt="Imagen de Doom 1" width="600" height="400">
+                <figcaption>Imagen de Doom 1</figcaption>
+                </picture>
+            </section>
+
+            <section id="video">
+                <h3>Video de gameplay</h3>
+                <video controls width="600" height="400">
+                    <source src="recursos/doom_gameplay.mp4" type="video/mp4">
+                    <source src="recursos/doom_gameplay.webm" type="video/webm">
+                    <track src="recursos/doom_gameplay.vtt" kind="subtitles" srclang="es" label="Español" default>
+                    Tu navegador no soporta el elemento de video.
+                </video>
+
+            </section>
+            
             
         </article>
     </main>
