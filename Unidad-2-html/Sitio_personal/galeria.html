@@ -20,8 +20,8 @@
             <ul>
                 <li><a href="index.html">Inicio</a></li>
                 <li><a href="listas.html">Demonios de Eternal</a></li>
-                <li><a href="contacto.html">Personajes</a></li>
-                <li><a href="galeria.html">Contacto</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+                <li><a href="galeria.html">Galería</a></li>
             </ul>
         </nav>
     </header>
@@ -32,19 +32,30 @@
             
             <section id="imagen">
                 <picture>
-                    <source srcset="recursos/doom1.webp" type="image/webp">
-                    <source srcset="recursos/doom1.jpg" type="image/jpeg">
-                    <img src="recursos/doom1.jpg" alt="Imagen de Doom 1" width="600" height="400">
-                <figcaption>Imagen de Doom 1</figcaption>
+                    <source srcset="recursos/doometernal.webp" type="image/webp">
+                    <source srcset="recursos/doometernal.jpg" type="image/jpeg">
+                    <img src="recursos/doometernal.webp" alt="Imagen de Doom eternal" width="600" height="400">
+                <figcaption>Imagen de Doom eternal</figcaption>
                 </picture>
+            </section>
+
+            <section id="audio">
+                <h3>Ost de doom eternal</h3>
+
+                <audio controls>
+                    <source src="recursos/Doom-eternal-ost.ogg" type="audio/ogg">
+                    <source src="recursos/Doom-eternal-ost.mp3" type="audio/mpeg">
+                    <img src="recursos/Doom-eternal-ost.ogg" >
+                    Tu navegador no soporta el elemento de audio.
+                </audio>
             </section>
 
             <section id="video">
                 <h3>Video de gameplay</h3>
-                <video controls width="600" height="400">
-                    <source src="recursos/doom_gameplay.mp4" type="video/mp4">
-                    <source src="recursos/doom_gameplay.webm" type="video/webm">
-                    <track src="recursos/doom_gameplay.vtt" kind="subtitles" srclang="es" label="Español" default>
+                <video controls width="600" height="400" poster="recursos/doometernal.webp">
+                    <source src="recursos/Glorykills.webm" type="video/webm">
+                    <source src="recursos/Glorykills.mp4" type="video/mp4">
+                    <track src="recursos/Glorykills.vtt" kind="subtitles" srclang="es" label="Español" default>
                     Tu navegador no soporta el elemento de video.
                 </video>
 
