@@ -71,19 +71,19 @@ Proyecto propio construido de forma autónoma.
 
 | Página | Qué contiene | Sesiones aplicadas | Ver | Validación |
 |:-------|:-------------|:------------------:|:---:|:----------:|
-| `index.html` | Estructura semántica, metadatos, texto jerarquizado, citas, enlaces y anclas | S03 · S04 · S06 | [ver](unidad-02-html/sitio-personal/index.html) | [ver](recursos/sp-validacion-index.png) |
-| `listas.html` | Las tres listas, lista anidada y tabla con celdas combinadas | S05 | [ver](unidad-02-html/sitio-personal/listas.html) | [ver](recursos/sp-validacion-listas.png) |
-| `contacto.html` | Formulario con ocho campos y validación de HTML | S06 | [ver](unidad-02-html/sitio-personal/contacto.html) | [ver](recursos/sp-validacion-contacto.png) |
-| `galeria.html` | Imágenes, audio, video con subtítulos y gráficas SVG | S07 · S08 | [ver](unidad-02-html/sitio-personal/galeria.html) | [ver](recursos/sp-validacion-galeria.png) |
+| `index.html` | Estructura semántica, metadatos, texto jerarquizado, citas, enlaces y anclas | S03 · S04 · S06 | [ver](Unidad-2-html/Sitio_personal/Index.html) | [ver](recursos/Pagina-index.png) |
+| `listas.html` | Las tres listas, lista anidada y tabla con celdas combinadas | S05 | [ver](Unidad-2-html/Sitio_personal/listas.html) | [ver](recursos/Pagina-listas.png) |
+| `contacto.html` | Formulario con ocho campos y validación de HTML | S06 | [ver](Unidad-2-html/Sitio_personal/contacto.html) | [ver](recursos/Pagina-Contacto.png) |
+| `galeria.html` | Imágenes, audio, video con subtítulos y gráficas SVG | S07 · S08 | [ver](Unidad-2-html/Sitio_personal/galeria.html) | [ver](recursos/Pagina-galeria.png) |
 
 **Decisiones que tomé**
 
 | Decisión | Qué elegí | Por qué |
 |:---------|:----------|:--------|
-| Tema del sitio | | |
-| Atributo de la lista ordenada | | |
-| Formatos de imagen usados | | |
-| Formas del gráfico SVG | | |
+| Tema del sitio |Doom eternal|Se mas del tema y la infomacion proporcionada es en su mayoria veridica|
+| Atributo de la lista ordenada |Start="1"|Solo necesitaba una lista en orden numerico normal|
+| Formatos de imagen usados |jpg y webp|Por que son las primeras que descargue y por era un requerimiento|
+| Formas del gráfico SVG |Circle y line|La forma se la hice no en algo no relaciona a la pagina en si|
 
 **Cómo se ve**
 
