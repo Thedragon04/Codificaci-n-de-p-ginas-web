@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta
+        name="description"
+        content="Sitio de compras de la api de doom "/>
+    <meta
+        name="keywords"
+        content="Doom, Slayer, videojuego, id Software"/>
+    <meta name="author" content="Jafeth" />
+    <link rel="icon" type="image/png" href="recursos/icon.png" />
+    <title>Doom fan site</title>
+</head>
+<body>
+    <header id="inicio">
+        <h1>Doom pregunta</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="listas.html">Demonios de Eternal</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+                <li><a href="galeria.html">Galería</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    
+    <main>
+        <h2>¿Tienes preguntas sobre Doom? ¡Contáctanos!</h2>
+        
+
+        <form action="#" method="post">
+            <fieldset>
+                <legend>Formulario de contacto</legend>
+                    <p>
+                    <label for="nombre">Nombre:</label>
+                    <input type="text" id="nombre" name="nombre" required>
+                    </p>
+                    <p>
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+                    </p>
+                    <p>
+                    <label for="mensaje">Mensaje:</label>
+                    <textarea id="mensaje" name="mensaje" maxlength="200" placeholder="Indica el tema de tu mensaje ejemplo: Dudas sobre el juego, quejas sobre la página, etc." rows="4" cols="50" required></textarea>
+                    </p>
+                    <button type="submit">Enviar</button>
+
+                    <br><br>    
+
+                    <fieldset>
+                        <legend>Fecha en la desea ser atendido</legend>
+                        <label for="fecha">Fecha de cita:</label>
+                        <input type="date" id="fecha" name="fecha" required>
+
+                        <p>Horario de atención:</p>
+                        <label for="Dia-tarde">10:00 AM - 2:00 PM</label>
+                        <input type="radio" id="Dia-tarde" name="hora" required>
+                        
+                        <br>
+
+                        <label for="Tarde">2:00 PM - 6:00 PM</label>
+                        <input type="radio" id="Tarde" name="hora" required> <br>
+                        <button type="submit">Enviar</button>
+
+
+                    </fieldset>
+            </fieldset>
+
+            <fieldset>
+                <legend>Tema de interés</legend>
+                
+
+                <input type="checkbox" id="demonios" name="tema" value="demonios">
+                <label for="demonios">Demonios</label>
+                <br>
+
+                <input type="checkbox" id="personajes" name="tema" value="personajes">
+                <label for="personajes">Personajes</label>
+                <br>
+
+                <input type="checkbox" id="armas" name="tema" value="armas">
+                <label for="armas">Armas</label>
+                <br>
+
+                <input type="checkbox" id="niveles" name="tema" value="niveles">
+                <label for="niveles">Niveles</label>
+            </fieldset>
+
+            <fieldset>
+                <legend>Confirmar mensaje</legend>
+                <p>Al enviar este formulario, confirmo que la información proporcionada es correcta.</p>
+                <input type="checkbox" id="confirmar" name="confirmar" required>
+                <label for="confirmar">Confirmo la información</label>
+            </fieldset>
+        </form>
+        <br>
+        <button type="submit">Enviar</button>
+        <button type="reset">Limpiar formulario</button>
+
+        <br><br>
+
+        <a href="#inicio">Volver al inicio de la página</a>
+    </main>
+
+
+
+
+
+
+
+    <footer>
+        <p>&copy; 2026 Jafeth Espinoza Villarreal. Todos los derechos reservados.</p>
+    </footer>
