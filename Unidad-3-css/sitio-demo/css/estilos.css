@@ -3,3 +3,10 @@ body {
     font-family:Arial, Helvetica, sans-serif;
     color:#bd4545;
 }/*esta regla define la fuente y el color de texto del documento*/
+
+h1  {
+    color: #1F4E79;
+    font-size: 32px;
+    text-align: center;
+    background-color: #fbf8f8;
+}
