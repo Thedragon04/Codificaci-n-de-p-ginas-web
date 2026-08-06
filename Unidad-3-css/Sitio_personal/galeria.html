@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta
+        name="description"
+        content="Sitio de compras de la api de doom "/>
+    <meta
+        name="keywords"
+        content="Doom, Slayer, videojuego, id Software"/>
+    <meta name="author" content="Jafeth" />
+    <link rel="icon" type="image/png" href="recursos/icon.png" />
+    <title>Doom fan site</title>
+</head>
+<body>
+    <header>
+        <h1>Doom</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="listas.html">Demonios de Eternal</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+                <li><a href="galeria.html">Galería</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <article>
+            <h2>Galería de imágenes</h2>
+            
+            <section id="imagen">
+                <img src="recursos/doometernal.jpg" alt="Imagen lateral del doom slayer" width="600" height="400">
+
+                <figure>
+                    <img src="recursos/doometernal.jpg" alt="Imagen lateral del doom slayer" width="800" height="500">
+                    <figcaption>Doom slayer viendo de lateral hacia el jugador</figcaption>
+                </figure>
+
+                <picture>
+                    <source srcset="recursos/doometernal.webp" type="image/webp">
+                    <source srcset="recursos/doometernal.jpg" type="image/jpeg">
+                    <img src="recursos/doometernal.webp" alt="Imagen de Doom eternal" width="600" height="400">
+                </picture>
+                
+            </section>
+
+            <section id="audio">
+                <h3>Ost de doom eternal</h3>
+
+                <audio controls>
+                    <source src="recursos/Doom-eternal-ost.ogg" type="audio/ogg">
+                    <source src="recursos/Doom-eternal-ost.mp3" type="audio/mpeg">
+                    <a href="recursos/Doom-eternal-ost.ogg" download>Descargar archivo de audio</a>
+                    Tu navegador no soporta el elemento de audio.
+                </audio>
+            </section>
+
+            <section id="video">
+                <h3>Video de gameplay</h3>
+                <video controls width="600" height="400" poster="recursos/doometernal.webp" preload="metadata">
+                    <source src="recursos/Glorykills.webm" type="video/webm">
+                    <source src="recursos/Glorykills.mp4" type="video/mp4">
+                    <track src="recursos/Glorykills.vtt" kind="subtitles" srclang="es" label="Español" default>
+                    Tu navegador no soporta el elemento de video.
+                </video>
+
+            </section>
+            
+            <section>
+                <h3>imagen svg</h3>
+                <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+                    
+                    <circle cx="52" cy="52" r="50" fill="yellow" stroke="black" stroke-width="2"/>
+                    <line x1="0" y1="100" x2="100" y2="0" fill="red" stroke="red" stroke-width="5"/>
+                    <line x1="100" y1="100" x2="0" y2="0" fill="red" stroke="red" stroke-width="5"/>
+                    <circle cx="52" cy="52" r="25" fill="yellow" stroke="black" stroke-width="2"/>
+                    <circle cx="52" cy="52" r="5" fill="blue" stroke="black" stroke-width="2"/>
+                    <text x="52" y="120" text-anchor="middle" font-size="14" fill="black">Punto de vista</text>
+                </svg>
+            </section>
+            
+        </article>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Jafeth Espinoza Villarreal. Todos los derechos reservados.</p>
+    </footer>
