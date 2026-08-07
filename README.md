@@ -105,7 +105,7 @@ Proyecto propio construido de forma autónoma.
 
 | Sesión | Tema                       | Qué aprendí |       Trabajo       |     Captura      |
 | :----: | :------------------------- | :---------- | :-----------------: | :--------------: |
-|  S11   | Introducción a CSS         |Aprendimos a utlizar estilos de css y como linkearlos a las paginas | [ver](Unidad-3-css/Sitio_personal/css/estilos.css) | [ver](recursos/) |
+|  S11   | Introducción a CSS         |Aprendimos a utlizar estilos de css y como linkearlos a las paginas | [ver](Unidad-3-css/Sitio_personal/css/estilos.css) | [ver](recursos/S11.png) |
 |  S12   | Selectores y pseudo-clases |             | [ver](Unidad-3-css) | [ver](recursos/) |
 |  S13   | Tipografía y color         |             | [ver](Unidad-3-css) | [ver](recursos/) |
 |  S14   | Modelo de cajas            |             | [ver](Unidad-3-css) | [ver](recursos/) |
